@@ -2,3 +2,6 @@
 [org.kde.kdecoration2]
 BorderSize=None
 BorderSizeAuto=false
+
+[Wayland]
+InputMethod[$e]=/usr/share/applications/fcitx5-wayland-launcher.desktop
