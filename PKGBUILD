@@ -1,5 +1,5 @@
 pkgname=catos-kde-settings
-pkgver=2.0
+pkgver=2.1
 pkgrel=1
 pkgdesc="CatOS KDE Settings"
 arch=("any")
