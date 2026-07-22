@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Star CatOS
+Comment=Visit the CatOS source repository
+Exec=xdg-open https://github.com/CatOS-dev/CatOS
+Icon=catos-logo
+Terminal=false
+Categories=Network;
